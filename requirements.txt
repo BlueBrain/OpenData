@@ -1,0 +1,7 @@
+torch
+torch-geometric
+morphio
+pynwb
+numpy
+matplotlib
+scikit-learn
