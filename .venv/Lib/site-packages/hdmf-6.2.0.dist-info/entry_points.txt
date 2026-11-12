@@ -1,0 +1,2 @@
+[console_scripts]
+validate_hdmf_spec = hdmf.testing.validate_spec:main
